@@ -1,0 +1,2 @@
+# corBandeira
+Projeto de akinator
